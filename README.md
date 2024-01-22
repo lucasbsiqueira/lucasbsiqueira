@@ -5,6 +5,6 @@
 
 
 #### Link do meu LinkedIn: https://www.linkedin.com/in/lucas-siqueira-1ba3b5194/
-#### Link dos meu Portfolio: https://lucasbsiqueira.github.io/js-portfolio/
+#### Link dos meu Portfolio: https://github.com/lucasbsiqueira
 
 #### Vamos nos conectar? 👋🏻
